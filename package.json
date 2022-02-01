@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToshiKajitsu/hexlet-js.git"
+  },
+  "author": "D.U.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToshiKajitsu/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/ToshiKajitsu/hexlet-js#readme"
+}
